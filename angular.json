@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "car-service-user"
+    }
+  },
+  "defaultProject": "car-service-user",
+  "cli": {
+    "analytics": "40c49a02-f13b-4f43-8ab6-ddd1967266d6"
+  }
 }
